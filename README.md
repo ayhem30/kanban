@@ -9,9 +9,6 @@ cd kanban
 
 npm install
 
-npm run build
-
-# Open a second terminal window and run:
 npm run serve
 ```
 
@@ -22,6 +19,5 @@ cd kanban
 
 npm install
 
-npm run build:prod
-npm run serve:prod
+npm start
 ```

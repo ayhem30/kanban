@@ -25,7 +25,7 @@ class BoardAdder extends Component {
   };
 
   handleSubmit = event => {
-    // Dispatch action to put new empty board in redux store and db + push new url to history
+    // Dispatch action to put new empty board in redux store + push new url to history
     event.preventDefault();
     const { title } = this.state;
     if (title === "") {
@@ -85,7 +85,7 @@ class BoardAdder extends Component {
 }
 
 const mapStateToProps = state => ({
-  userId: state.user ? state.user._id : "guest"
+  userId: "guest"
 });
 
 export default connect(mapStateToProps)(BoardAdder);
