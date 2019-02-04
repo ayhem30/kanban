@@ -1,0 +1,39 @@
+@import "../../variables.scss";
+
+.options-list {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin: 0 8px;
+
+  @media (max-width: 550px) {
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    margin: 0;
+  }
+}
+
+.options-list-button {
+  display: flex;
+  align-items: center;
+  height: 33px;
+  margin: 0 3px 4px 3px;
+  padding: 0 6px;
+  border: 0;
+  border-radius: 3px;
+  color: black;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.options-list-button:hover,
+.options-list-button:focus {
+  background: white;
+}
+
+.modal-icon {
+  flex-shrink: 0;
+  margin-bottom: 3px;
+}
