@@ -8,7 +8,7 @@
     "build:prod": "BABEL_ENV=production webpack --mode production",
     "serve": "webpack --watch --mode development && nodemon dist/server.js",
     "serve:prod": "NODE_ENV=production node dist/server.js",
-    "start": "BABEL_ENV=production webpack --mode production && NODE_ENV=production node dist/server.js",
+    "start": "NODE_ENV=production node dist/server.js",
     "lint": "eslint --ext .js,.jsx src/",
     "format": "prettier --write '**/*.{js,jsx,css,scss,json,md}'"
   },
