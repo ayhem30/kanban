@@ -37,6 +37,19 @@ module.exports = {
             }
           }
         ]
+      },
+      {
+        test: /\.svg$/,
+        use: {
+          loader: "svg-url-loader",
+          options: {
+            noquotes: true,
+            emitFile: false,
+            limit: 4096,
+            name: "[name].[hash:6].[ext]",
+            outputPath: "images/"
+          }
+        }
       }
     ]
   },
