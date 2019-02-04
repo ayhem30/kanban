@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14704fc3-938b-4a64-9f07-79524fd71e77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Board/Board.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Board/Board.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Board/BoardContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/BoardHeader/BoardDeleter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/BoardHeader/BoardDeleter.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/BoardHeader/BoardHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/BoardHeader/BoardHeader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/BoardHeader/BoardTitle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/BoardHeader/BoardTitle.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Card/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Card/Card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Card/formatMarkdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/CardAdder/CardAdder.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/CardAdder/CardAdder.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/CardModal/CardModal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/CardModal/CardModal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/CardModal/CardOptions.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/CardModal/CardOptions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/ClickOutside/ClickOutside.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Header/Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Home/BoardAdder.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Home/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/Home/Home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/List/Cards.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/List/List.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/List/List.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/List/ListHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/List/ListHeader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/ListAdder/ListAdder.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/ListAdder/ListAdder.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/reducers/Boards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/reducers/Cards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/reducers/CurrentBoard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/reducers/Lists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/BoardData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/ServePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,29 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.babelrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -118,15 +49,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/server/Page.jsx" />
         <option value="$PROJECT_DIR$/src/server/BoardData.js" />
         <option value="$PROJECT_DIR$/src/server/server.js" />
         <option value="$PROJECT_DIR$/src/app/reducers/Boards.js" />
         <option value="$PROJECT_DIR$/src/app/reducers/index.js" />
         <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -165,7 +96,60 @@
             <path>
               <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
               <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Board" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="BoardHeader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,12 +193,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549253108151</updated>
-      <workItem from="1549253109533" duration="2686000" />
+      <workItem from="1549253109533" duration="4113000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1549255975599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549255975599</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial">
+      <created>1549257050255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549257050255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2686000" />
+    <option name="totallyTimeSpent" value="4113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1676" height="1028" extended-state="0" />
@@ -225,7 +224,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32914045" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -238,6 +237,25 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -245,16 +263,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.eslintrc">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.prettierignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -267,16 +283,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/client.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -337,15 +343,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/server.js">
+    <entry file="file://$PROJECT_DIR$/src/app/components/BoardHeader/BoardDeleter.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2061" />
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -356,10 +366,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/dist/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="255">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
